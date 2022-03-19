@@ -62,6 +62,7 @@ html{
     display: grid;
     grid-template-columns: 1fr 1fr;
     font-size: 1.8rem;
+    font-weight: bold;
 }
 .grid-number{
     position: relative;
